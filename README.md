@@ -23,7 +23,8 @@ This helps the company improve its offers, make customers happier, and keep them
 
 Click the button below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](S7-Project-ConnectaTel.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([S7-Project-ConnectaTel.ipynb](https://colab.research.google.com/github/LeidyNathaly/telecom-analysis/blob/99bef5c6885d48cad697a3444b207e8143273e67/notebooks/proyecto7_connectatel.ipynb
+))
 
 Or:
 
